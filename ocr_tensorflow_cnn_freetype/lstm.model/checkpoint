@@ -1,0 +1,2 @@
+model_checkpoint_path: "ocr.model_lstm-6700"
+all_model_checkpoint_paths: "ocr.model_lstm-6700"
